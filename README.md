@@ -15,5 +15,5 @@ Ihr Entwicklungsteam
 2. Um einen neuen Bug zu melden klicken Sie auf die Schaltfläche "New Issue"
 ![grafik](https://user-images.githubusercontent.com/39301026/127520163-3b25e42f-77b8-41d5-a972-6dd3c2389c20.png)
 
-3. Vergeben Sie einen Titel 
+3. Vergeben Sie einen Titel, eine Beschreibung und ein Label 
 ![grafik](https://user-images.githubusercontent.com/39301026/127521130-b537162f-7463-4b37-8c46-e8d6495f5d92.png)
